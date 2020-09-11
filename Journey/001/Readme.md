@@ -9,4 +9,4 @@ Hi all,Today is my first day of the 100DaysOfCloud Challenge. I spent sometime e
 ## Social Proof
 
 
-[Tweet]([link](https://twitter.com/Jericoholic5/status/1304465160933761030))
+[Tweet](https://twitter.com/Jericoholic5/status/1304465160933761030)
