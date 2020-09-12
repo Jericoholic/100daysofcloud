@@ -63,4 +63,4 @@ Select the Connect button and it will give you instructions on connecting to the
 
 ✍️ Show that you shared your process on Twitter or LinkedIn
 
-[link](link)
+[link](https://twitter.com/Jericoholic5/status/1304828078351200258)
