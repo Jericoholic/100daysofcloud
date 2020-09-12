@@ -38,7 +38,7 @@ Continue onto the Networking tab. Since I don't have any existing virtual networ
 Overview of network configuration:
 ![Screenshot](./img/Networktab.png)
 
-Continue onto the Management tab. I will make one small change here and that is to disable boot diagnostics. This setting will capture serial console output and take screenshots of the virtual machine to help diagnose startup issues. However, this requires a storage account for storing these log files and images, so I want to skip this for now.
+Continue onto the Management tab. I will make one small change here and that is to disable boot diagnostics.
 
 Overview of management configuration:
 ![Screenshot](./img/Managementtab.png)
