@@ -45,12 +45,12 @@ Overview of management configuration:
 
 Skip over to the Review + create tab and verify it passes validation. If it does, select Create at the bottom. Once the deployment is complete, go back to the newly created resource group and see the different resources created:
 
-Virtual network that currently has a single subnet configured
-The virtual machine compute resource
-Public IP address for the virtual machine
-Network security group that currently allows port 22 for SSH
-A separate network interface that attaches to the virtual network
-Operating system disk
+1.Virtual network that currently has a single subnet configured
+2.The virtual machine compute resource
+3.Public IP address for the virtual machine
+4.Network security group that currently allows port 22 for SSH
+5.A separate network interface that attaches to the virtual network
+6.Operating system disk
 ![Screenshot](./img/Resourcetab.png)
 
 Selecting the virtual machine, in the top overview section there will be the current public IP address so I can connect to the virtual machine directly. Here it is 52.172.150.170:
